@@ -25,7 +25,7 @@ For Connect4, the following hyperparameters were chosen for Q-Learning: ε=0.3, 
 
 The choice of hyperparameters was based on examples from literature and fine-tuning through trial and error to achieve optimal performance.
 
-# Resultss
+# Results
 
 This section presents the outcomes obtained from running 100 games for each scenario. The reason for choosing 100 games is because it good enough number for performance comparison and 100 games would not be too time-consuming, 100 games provide a good balance between accuracy and efficiency. I will analyze the performance of these algorithms by comparing their win/loss ratio and computational time when playing against default opponents and each other. The results provide insights into how the algorithms compare to each other when playing against default opponents as well as against each other in both Tic Tac Toe and Connect 4. 
 
