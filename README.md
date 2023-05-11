@@ -1,15 +1,8 @@
 # Game-AI-Minimax-vs-Q-Learning
 In this project, , I have implemented two classic games, Tic Tac Toe and Connect 4, and applied Minimax algorithm with alpha-beta pruning and tabular Q-learning reinforcement learning algorithm, to play against default opponents and each other. The objective of this project is to evaluate and compare compare their performance .
 <br/>
-<!-- <p align="center"> -->
-  <img src="tic_tac_toe.png" alt="Tic Tac Toe" width="250"/>
-<!-- </p> -->
-<!-- <br/> -->
-<!-- <p align="center"> -->
-  <img src="connect4.png" alt="Connect 4" width="250"/>
-<!-- </p> -->
 
-Solarized dark        |  Connect4
+Tic Tac Toe       |  Connect4
 :-------------------------:|:-------------------------:
 ![](tic_tac_toe.png)  |  ![](connect4.png)
 
