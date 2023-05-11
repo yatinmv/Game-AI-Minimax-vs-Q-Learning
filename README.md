@@ -9,6 +9,9 @@ In this project, , I have implemented two classic games, Tic Tac Toe and Connect
   <img src="connect4.png" alt="Connect 4" width="250"/>
 <!-- </p> -->
 
+Solarized dark        |  Connect4
+:-------------------------:|:-------------------------:
+![](tic_tac_toe.png)  |  ![](connect4.png)
 
 # Implementation of Algorithms
 This project implements two classic games, Tic Tac Toe and Connect 4, and applies two well-known AI techniques, Minimax algorithm with alpha-beta pruning and tabular Q-learning reinforcement learning algorithm, to play against default opponents and each other. The objective of this project is to evaluate and compare the performance of these two algorithms in these two games.
