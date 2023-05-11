@@ -40,7 +40,7 @@ The results achieved are shown below
 | Algorithms/Metrics                        | Wins | Total time take (sec) | Draws |
 |-------------------------------------------|------|-----------------------|-------|
 | Minimax (with alpha-beta pruning) agent   | 46   | 17.109375             | 19    |
-| Default agent                             | 35   | 0.03125               | ^^      |
+| Default agent                             | 35   | 0.03125               | 19      |
 
 
 ### Q-Learning vs Default agent:
@@ -48,7 +48,7 @@ The results achieved are shown below
 | Algorithms/Metrics | Wins | Total time take (sec) | Draws |
 |--------------------|------|-----------------------|-------|
 | Q-Learning agent   | 73   | 0.328125              | 15    |
-| Default agent      | 12   | 0.046875              |       |
+| Default agent      | 12   | 0.046875              | 15   |
 
 
 We can observe that in the 100 games of Tic Tac Toe, both Minimax and Q-learning algorithms outperformed the Default algorithms in the Win rate. The Minimax agent also took significantly more time to complete its moves than the default agent, with a total time of 17.109375 seconds compared to just 0.03125 seconds for the default agent. The Q-Learning agent also took a bit more time to complete its moves than the default agent, with a total time of 0.328125 seconds compared to 0.046875 seconds for the default agent.
@@ -63,7 +63,7 @@ The results achieved are shown below
 | Algorithms/Metrics                        | Wins | Total time take (sec) | Draws |
 |-------------------------------------------|------|-----------------------|-------|
 | Minimax (with alpha-beta pruning) agent   | 72   | 53.390625             | 19    |
-| Default agent                             | 9    | 0.34375               |       |
+| Default agent                             | 9    | 0.34375               |  19    |
 
 
 ### Q-Learning vs Default agent:
@@ -71,7 +71,7 @@ The results achieved are shown below
 | Algorithms/Metrics | Wins | Total time take (sec) | Draws |
 |--------------------|------|-----------------------|-------|
 | Q-Learning agent   | 26   | 0.015625              | 5     |
-| Default agent      | 69   | 0.28125               |       |
+| Default agent      | 69   | 0.28125               | 5      |
 
 
 Based on the above results, we can see that Minimax with alpha-beta pruning was the strongest algorithm for playing Connect4, with 72 wins out of 100 games.
