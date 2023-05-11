@@ -40,7 +40,7 @@ The results achieved are shown below
 | Algorithms/Metrics                        | Wins | Total time take (sec) | Draws |
 |-------------------------------------------|------|-----------------------|-------|
 | Minimax (with alpha-beta pruning) agent   | 46   | 17.109375             | 19    |
-| Default agent                             | 35   | 0.03125               |       |
+| Default agent                             | 35   | 0.03125               | ^^      |
 
 
 ### Q-Learning vs Default agent:
